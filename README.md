@@ -1,4 +1,4 @@
-# Godocs Documentation Template (Only for testing | Ref: )
+# Godocs Documentation Template (Only for testing | Ref: Godocs by Themefisher )
 
 ![godocs](https://demo.themefisher.com/thumbnails/godocs.png)
 
